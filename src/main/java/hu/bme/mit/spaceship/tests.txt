@@ -1,0 +1,7 @@
+fireTorpedo SINGLE primary last
+fireTorpedo SINGLE secondary last
+
+fireTorpedo ALL
+
+fireTorpedo SINGLE empty
+fireTorpedo ALL empty
